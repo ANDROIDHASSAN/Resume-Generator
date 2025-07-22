@@ -2,12 +2,7 @@
 
 A powerful and user-friendly **Resume Builder** web application with Firebase authentication. Easily build, edit, and download professional resumes in minutes. Designed with modern web technologies for a seamless experience.
 
----
 
-##  Live Preview
-
-[🔗 View Live Website](https://your-live-link.com)  
-(Replace with your deployed site link)
 
 ---
 
